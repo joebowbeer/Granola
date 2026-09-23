@@ -10,7 +10,7 @@ backup? Use Granola to serialize your data.
 
 Granola spares you the effort of mapping HealthKit's API to JSON yourself,
 and emits JSON that validates against
-[schemas developed by Open mHealth](http://www.openmhealth.org/developers/schemas/)
+[schemas developed by Open mHealth](https://github.com/openmhealth/schemas/tree/main/schema/granola)
 to ensure the data is intuitive and clinically meaningful.
 
 
